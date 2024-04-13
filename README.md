@@ -10,7 +10,7 @@ Kamran</a></h1>
 
 - 🔭 I’m currently working in <a href="https://www.linkedin.com/company/telenormicrofinancebanklimited/mycompany/" target="blank">Telenor MicroFinance Bank- Easypaisa</a>
 
-- 🌱 I’m currently Working on Saas Portal(Java Springboot)
+- 🌱 I’m currently Working on Surgip Management System (Hospital Portal)(Java Springboot)
 
 - 🤝 I’m available for freelancing and any remote position.
 
