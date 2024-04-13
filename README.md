@@ -2,7 +2,7 @@
 Kamran</a></h1>
 <h3 align="center">A passionate Backend Java Developer from Birmingham, United Kingdom</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="kamran" /> </p>
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="KamranAbbasi" /></a> </p>
 
